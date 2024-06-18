@@ -4,7 +4,10 @@
 ## How it's Used
 The figure below shows a block diagram of how the I/O Device is connected to the LabJack. Please take note of the ports as they are typically labeled according to their function.
 - `AO` ports of the board must be connected to `DAC` ports of the LabJack.
-- AI ports of the board can be connected to any AIN ports of the LabJack you like.
+- `AI` ports of the board can be connected to any `AIN` ports of the LabJack.
+- `PWM` can be connected to any `FIO` ports of the LabJack.
+## Parts
+- PCB with Enclosure
 ## Software Used
 - Autodesk Fusion (for all electronics and 3D models)
 ## Project Assembly Preview
