@@ -6,6 +6,7 @@ The figure below shows a block diagram of how the I/O Device is connected to the
 - `AO` ports of the board must be connected to `DAC` ports of the LabJack.
 - `AI` ports of the board can be connected to any `AIN` ports of the LabJack.
 - `PWM` can be connected to any `FIO` ports of the LabJack.
+
 Go to LabJack's [main FAQ page](https://labjack.com/pages/frequently-asked-questions) for more information about DAQ (data acquisition) and how this device works.
 ## Parts
 PCB with enclosure
