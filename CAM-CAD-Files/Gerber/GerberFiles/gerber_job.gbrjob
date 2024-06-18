@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2024-06-18T20:16:16Z",
+        "GenerationSoftware": {
+            "Application": "Fusion Electronics",
+            "Vendor": "Autodesk",
+            "Version": "9.7.0"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "PCB v48"
+        },
+        "Owner": "Gabriel Cayamdas <gcayamdas@myseneca.ca>",
+        "Size": {
+            "X": 50.78,
+            "Y": 37.77
+        }
+    }
+}
